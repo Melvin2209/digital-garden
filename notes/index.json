@@ -1,0 +1,19 @@
+[
+  {"slug":"a-propos","title":"Qui je suis","stage":"evergreen","updated":"2026-10-18","tags":["moi"]},
+  {"slug":"alternance-boulanger","title":"Mon alternance chez Boulanger","stage":"evergreen","updated":"2026-10-18","tags":["travail","dev"]},
+  {"slug":"product-leader","title":"Être Product Leader sans être PM","stage":"budding","updated":"2026-10-18","tags":["produit","travail"]},
+  {"slug":"ab-testing","title":"A/B tests de bout en bout","stage":"budding","updated":"2026-10-18","tags":["produit","dev","data"]},
+  {"slug":"incidents-en-prod","title":"Quick fix, puis clean fix","stage":"budding","updated":"2026-10-18","tags":["dev","travail"]},
+  {"slug":"revue-de-code","title":"Mieux relire les merge requests","stage":"budding","updated":"2026-10-18","tags":["dev","equipe"]},
+  {"slug":"stack","title":"Ma boîte à outils","stage":"evergreen","updated":"2026-10-18","tags":["dev"]},
+  {"slug":"flutter","title":"Apprendre Flutter par les projets","stage":"seedling","updated":"2026-10-18","tags":["dev","projets"]},
+  {"slug":"parcours","title":"Mon parcours d'études","stage":"evergreen","updated":"2026-10-18","tags":["moi","apprendre"]},
+  {"slug":"ia-au-quotidien","title":"L'IA comme copilote, pas comme pilote","stage":"seedling","updated":"2026-10-18","tags":["ia","apprendre"]},
+  {"slug":"mode-et-travail","title":"Ce que la mode m'apprend sur le travail","stage":"budding","updated":"2026-10-18","tags":["vie","moi"]},
+  {"slug":"echecs","title":"Échecs et prise de décision","stage":"seedling","updated":"2026-10-18","tags":["vie"]},
+  {"slug":"sport","title":"Salle, foot et course","stage":"seedling","updated":"2026-10-18","tags":["vie"]},
+  {"slug":"piano","title":"Le piano, lentement","stage":"seedling","updated":"2026-10-18","tags":["vie"]},
+  {"slug":"anglais","title":"Travailler en anglais","stage":"budding","updated":"2026-10-18","tags":["apprendre"]},
+  {"slug":"objectif-2027","title":"Objectif : un stage à l'étranger en 2027","stage":"seedling","updated":"2026-10-18","tags":["moi","projets"]},
+  {"slug":"qualite-web","title":"La qualité web, au-delà du code","stage":"seedling","updated":"2026-10-18","tags":["dev"]}
+]
